@@ -58,6 +58,7 @@ p{
    font-family: Arial, Helvetica, sans-serif;
    padding: 20px;
 }
+/****TABLET SCREEN****/
 @media screen and (max-width:991px) and (min-width:768px) {
     .container{
         margin: 10px;
@@ -76,6 +77,7 @@ p{
         height: 200px;
     }
 }
+/***********MOBILE SCREEN********/
 @media screen and (max-width:767px) {
     .col-1{
         width: 100%;
